@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA+Guides&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA+Guides&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* @font-face {
+    font-family: vazir;
+    src: 
+        url(./../fonts/Vazir.ttf),
+        url(./../fonts/Vazir.eot),
+        url(./../fonts/Vazir.woff),
+        url(./../fonts/Vazir.woff2);
+} */
+
+@font-face {
+    font-family: reza;
+    src: url(./../fonts/Vazir.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    direction: rtl;
+}
+
+p {
+    text-align: center;
+    background-color: #0C5B89;
+    padding: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: reza;
+    font-weight: bold;
+    padding: 10px;
+}
+
+h1 {
+    /* font-family: "Playwrite AU SA Guides"; */
+    font-family: "Shantell Sans";
+}
