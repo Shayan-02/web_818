@@ -1,0 +1,21 @@
+html{
+    direction: rtl;
+}
+
+body{
+    background-color: #e6e6e6;
+}
+
+p {
+    font-size: 30px;
+    font-weight: normal;
+    color: rgb(245, 161, 238);
+    background-color: #feffda;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
