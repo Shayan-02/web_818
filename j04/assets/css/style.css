@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400..700&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Playwrite+AU+SA+Guides&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    font-family: "Google Sans";
+}
+
+h1{
+    text-align: center;
+}
+
+span {
+    font-size: 72px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 20px;
+}
+
+.bl {
+    color: #4186F5;
+}
+
+.re {
+    color: #EB4235;
+}
+
+#ye {
+    color: #FBBF04;
+}
+
+#gr {
+    color: #33AA52;
+}
